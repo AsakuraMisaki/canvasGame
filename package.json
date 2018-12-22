@@ -1,0 +1,26 @@
+{
+  "name": "canvasgame",
+  "version": "1.0.0",
+  "description": "canvas H5 javascript",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --config ./build/dev.config.js",
+    "build": "webpack --config ./build/prod.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsakuraMisaki/canvasGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsakuraMisaki/canvasGame/issues"
+  },
+  "homepage": "https://github.com/AsakuraMisaki/canvasGame#readme",
+  "dependencies":{
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
