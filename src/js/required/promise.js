@@ -1,0 +1,2 @@
+console.warn(Promise.prototype);
+

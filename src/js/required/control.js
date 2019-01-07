@@ -1,0 +1,4 @@
+// js
+var control = function () {
+    
+}

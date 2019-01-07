@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menuShowClick"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"prox",
+				"proxyAvailable"
+			],
+			[
+				"match",
+				"matchProxy\t(proxy.js)"
+			],
+			[
+				"matc",
+				"matchProxy"
+			],
+			[
+				"module",
+				"module"
+			],
+			[
+				"set",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"war",
+				"console.warn"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"get",
+				"get\t.get()"
+			],
+			[
+				"g",
+				"get\t.get()"
+			],
+			[
+				"use",
+				"userAgent\t: DOMString WorkerNavigator"
+			],
+			[
+				"na",
+				"navigator\t: Navigator Window"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"dev",
+				"devServer"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"canvas\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"las",
+				"lastPic"
+			],
+			[
+				"lastPic",
+				"lastPicCaller"
+			],
+			[
+				"setI",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"nextP",
+				"nextPicCaller"
+			],
+			[
+				"conso",
+				"console.warn"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tr",
+				"transparent\tbackground"
+			],
+			[
+				"t",
+				"top\tbackground"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"r",
+				"rotate()\ttransform"
+			],
+			[
+				"fl-c",
+				"flex-direction\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"spac",
+				"letter-spacing\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"fot-s",
+				"font-size\tproperty"
+			],
+			[
+				"us",
+				"user-select\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"rad",
+				"border-radius\tproperty"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"tex-",
+				"text-decoration\tproperty"
+			],
+			[
+				"sam",
+				"small\tTag"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pos",
+				"background-position\tproperty"
+			],
+			[
+				"ba-s",
+				"background-size\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bacp",
+				"background-position\tproperty"
+			],
+			[
+				"l",
+				"lighter\tfont-weight"
+			],
+			[
+				"ba-cc",
+				"background-color\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"b-siz",
+				"background-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon-s",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"f",
+				"flex-start\talign-self"
+			],
+			[
+				"bo",
+				"bold\tfont-weight"
+			],
+			[
+				"ba-c",
+				"background-origin\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"preven",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"inner",
+				"innerWidth\t.innerWidth()"
+			],
+			[
+				"dyna",
+				"dynamic.sectionFixed"
+			],
+			[
+				"orig",
+				"originWidth"
+			],
+			[
+				"getEl",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"z-",
+				"z-index\tproperty"
+			],
+			[
+				"co",
+				"common-shadow"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"of",
+				"offset-s"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"n",
+				"nowrap\twhite-space"
+			],
+			[
+				"wra",
+				"word-wrap\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"radi",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-orientation\tproperty"
+			],
+			[
+				"erro",
+				"errorInfo"
+			],
+			[
+				"error",
+				"errorPrint"
+			],
+			[
+				"remo",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"chi",
+				"children\t: HTMLCollection Document"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"setInterv",
+				"setInterval"
+			],
+			[
+				"setTi",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/GitHub/Projects/clientSide/canvasGame/index.html",
+			"settings":
+			{
+				"buffer_size": 615,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/required/promise.js",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/required/proxy.js",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/(onlyOutput)JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/(secondChoice)JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/(secondChoice)JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/(secondChoice)JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/(secondChoice)JavaC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/(secondChoice)JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-dev.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-dev.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/npm/cnpm-install.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-dev.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/npm/cnpm-install.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/npm/cnpm-install.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-dev.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/npm/cnpm-install.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/npm/npm-run-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm/npm-run-dev.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/npm/npm-run-dev.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instaal",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"RE",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 383.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/Projects/clientSide/canvasGame",
+		"/D/GitHub/Projects/clientSide/canvasGame/src",
+		"/D/GitHub/Projects/clientSide/canvasGame/src/js",
+		"/D/GitHub/Projects/clientSide/canvasGame/src/js/required"
+	],
+	"file_history":
+	[
+		"/D/Program Files/nodeJS/node_modules/g/node_modules/eslint/.eslintrc.json",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/java_16数媒24郭行健hw5/src/com/asakura/Main.java",
+		"/D/GitHub/Projects/clientSide/canvasGame/src/project.sublime-project",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题1/src/rec/cuboid.java",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题1/src/rec/Rectangle.java",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题2/src/arrTransform/Main.java",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题1/src/rec/RectangleShape.java",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题3/src/main/Test.java",
+		"/D/GitHub/Projects/hw/java/16数媒1-24号-郭行健/试题3/src/main/Animal.java",
+		"/D/GitHub/Projects/flashGame/as/js/eventEX.js",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/GitHub/Projects/clientSide/canvasGame/src/js/required/proxy.js",
+		"/D/GitHub/Projects/clientSide/canvasGame/package.json",
+		"/D/my document/Documents/JavaScript-Completions-master/JavaScript-Completions.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-completions",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/GitHub/Projects/clientSide/canvasGame/build/prod.config.js",
+		"/D/GitHub/Projects/clientSide/Girlfriend-Builder/build/prod.config.js",
+		"/D/GitHub/Projects/clientSide/Girlfriend-Builder/package.json",
+		"/D/GitHub/Projects/clientSide/canvasGame/build/dev.config.js",
+		"/D/GitHub/Projects/Android/NoteSystem/app/release/nodeServer.js",
+		"/D/GitHub/Projects/Android/MyApplication2/app/src/main/java/com/misaki/myapplication/userRes/support/listView/ItemInList.java",
+		"/D/GitHub/Projects/nodeJSServer/gpnud.sql",
+		"/D/GitHub/Projects/Android/MyApplication2/app/src/main/java/com/misaki/myapplication/userRes/support/listView/MyAdapter.java",
+		"/D/GitHub/Projects/Android/MyApplication2/app/src/main/java/com/misaki/myapplication/ListViewTest.java",
+		"/D/GitHub/Projects/Android/NoteSystem/app/src/main/res/drawable/radius_button.xml",
+		"/D/GitHub/Projects/Android/MyApplication2/app/src/main/java/com/misaki/myapplication/ButtonTest.java",
+		"/D/GitHub/Projects/Android/NoteSystem/app/build/outputs/apk/debug/output.json",
+		"/D/GitHub/Projects/clientSide/notes/vue$webpack.md",
+		"/D/GitHub/Projects/hw/web/css/nodeServer.js",
+		"/D/GitHub/Projects/Android/NoteSystem/app/release/node.js",
+		"/D/GitHub/Projects/Android/MyApplication2/build.gradle",
+		"/D/GitHub/Projects/Android/MyApplication2/app/build.gradle",
+		"/D/GitHub/Projects/Android/MyApplication2/gradlew",
+		"/D/GitHub/Projects/Android/MyApplication2/gradle.properties",
+		"/D/GitHub/Projects/clientSide/webResolve/vue/index.html",
+		"/D/GitHub/Projects/clientSide/webResolve/vue/main.js",
+		"/D/GitHub/Projects/clientSide/webResolve/index.html",
+		"/D/GitHub/Projects/clientSide/webResolve/vue/main.css",
+		"/D/GitHub/Projects/clientSide/webResolve/start/index.html",
+		"/D/GitHub/Projects/clientSide/webResolve/node/index.html",
+		"/D/GitHub/Projects/clientSide/webResolve/login/index.html",
+		"/D/GitHub/Projects/clientSide/webResolve/main.js",
+		"/D/GitHub/Projects/clientSide/webResolve/node/main.js",
+		"/D/GitHub/Projects/clientSide/webResolve/node/data.js",
+		"/D/GitHub/Projects/nodeJSServer/gstes_js/Main.js",
+		"/D/GitHub/Projects/clientSide/webResolve/package.json",
+		"/D/GitHub/Projects/hw/web/learn/src/component/index.vue",
+		"/D/GitHub/Projects/hw/web/learn/src/css/main.css",
+		"/D/GitHub/Projects/hw/web/learn/pages/javascript/index.html",
+		"/D/GitHub/Projects/hw/web/learn/src/js/index.js",
+		"/D/GitHub/Projects/hw/web/learn/index.html",
+		"/D/GitHub/Projects/hw/web/learn/src/css/less-main.less",
+		"/D/GitHub/Projects/hw/web/learn/src/css/global.less",
+		"/D/GitHub/Projects/hw/web/learn/src/component/nav.vue",
+		"/D/GitHub/Projects/hw/web/learn/src/js/nav.js",
+		"/D/GitHub/Projects/hw/web/learn/build/prod.config.js",
+		"/D/GitHub/Projects/hw/web/learn/pages/javascript.html",
+		"/D/GitHub/Projects/clientSide/notes/CssNote.css",
+		"/D/GitHub/Projects/hw/web/learn/src/css/media.css",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/LESS/less_completions.py",
+		"/C/Users/27568/AppData/Local/Temp/7zO433A54FA/CSS.sublime-syntax",
+		"/C/Users/27568/AppData/Local/Temp/7zO47516348/Completion Rules.tmPreferences",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/less2css/less2css.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Less2Css/Default (Windows).sublime-keymap",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-syntax",
+		"/C/Users/27568/AppData/Local/Temp/7zO465E7F73/Completion Rules.tmPreferences",
+		"/C/Users/27568/AppData/Local/Temp/7zO095C4BE2/Completion Rules.tmPreferences",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/less.sublime-sytnax",
+		"/C/Users/27568/AppData/Local/Temp/7zO8E0EEB50/CSS.sublime-syntax",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/less.yaml",
+		"/D/my document/Documents/less.js-master/dist/less.js",
+		"/D/GitHub/Projects/hw/web/learn/t.js",
+		"/D/my document/Documents/less.js-master/.vscode/launch.json",
+		"/D/my document/Documents/less.js-master/.eslintrc.json",
+		"/D/GitHub/Projects/hw/web/learn/src/js/errorHandle.js",
+		"/D/GitHub/Projects/clientSide/notes/DOM&&js(node,es,HTTP+).md",
+		"/D/GitHub/Projects/hw/web/learn/build/dev.config.js",
+		"/D/GitHub/Web/Flat-UI-master/dist/css/flat-ui.css",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/GitHub/Projects/hw/web/learn/package.json",
+		"/D/GitHub/Projects/hw/web/webResolve/package.json",
+		"/D/GitHub/Projects/hw/web/webResolve/src/component/index.vue",
+		"/D/GitHub/Projects/hw/web/webResolve/src/js/index.js",
+		"/D/GitHub/Projects/hw/web/webResolve/index.html",
+		"/D/GitHub/Projects/hw/web/webResolve/build/dev.config.js",
+		"/D/GitHub/Projects/clientSide/wide.js/src/index.js",
+		"/D/GitHub/Projects/nodeJSServer/gstes/nodejs/node_modules/body-parser/README.md",
+		"/D/GitHub/Projects/clientSide/notes/Web.md",
+		"/D/GitHub/Projects/hw/web/learn/node_modules/_vue@2.5.17@vue/dist/vue.js",
+		"/D/GitHub/Projects/hw/web/learn/node_modules/_vue@2.5.17@vue/dist/vue.runtime.js",
+		"/D/GitHub/Projects/hw/web/learn/src/index.js",
+		"/D/GitHub/Projects/clientSide/webpackTest/index.html",
+		"/D/GitHub/Projects/clientSide/webpackTest/src/main.js",
+		"/D/GitHub/Projects/clientSide/webpackTest/src/App.vue",
+		"/D/GitHub/Projects/clientSide/webpackTest/config/index.js",
+		"/D/GitHub/Projects/clientSide/webpackTestManual/node_modules/_vue-hot-reload-api@2.3.1@vue-hot-reload-api/dist/index.js",
+		"/D/GitHub/Projects/clientSide/webpackTestManual/node_modules/_vue-hot-reload-api@2.3.1@vue-hot-reload-api/README.md",
+		"/D/GitHub/Projects/clientSide/webpackTest/build/webpack.base.conf.js",
+		"/D/GitHub/Projects/clientSide/webpackTest/package.json",
+		"/D/GitHub/Projects/clientSide/webpackTestManual/nodeServer.js",
+		"/D/Program Files/nodeJS/node_modules/g/node_modules/jshint/jshintrc",
+		"/D/GitHub/Projects/clientSide/webpackTest/.eslintrc.js",
+		"/D/GitHub/Projects/clientSide/EnV.js/dist/css/main.css",
+		"/D/GitHub/Projects/clientSide/EnV.js/note/DOM&&js(node,es).md",
+		"/D/GitHub/Projects/clientSide/EnV.js/note/jsNote.js",
+		"/D/GitHub/Projects/hw/web/form/dist/js/main.js",
+		"/D/GitHub/Projects/nodeJSServer/gstes/nodejs/Main.js",
+		"/D/GitHub/Projects/nodeJSServer/gstes/nodejs/mysql.js",
+		"/D/GitHub/Projects/clientSide/EnV.js/dist/js/JSTest.js",
+		"/D/GitHub/Projects/clientSide/EnV.js/note/DOMjs.md",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/27568/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/D/GitHub/Projects/nodeJSServer/gstes/nodejs/(JS)QA.js",
+		"/D/GitHub/Projects/clientSide/EnV.js/nodeServer.js",
+		"/D/GitHub/Projects/clientSide/EnV.js/dist/css/mediaQuery.css",
+		"/D/GitHub/Projects/java/JavaGradleAndroid/androidAPI.md",
+		"/D/GitHub/Projects/Android/MyApplication2/app/src/main/java/com/misaki/myapplication/MainActivity.java",
+		"/D/GitHub/Projects/java/JavaGradleAndroid/androidStudio&gradle.md"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"par",
+			"semi",
+			"newline",
+			"var",
+			"semi",
+			"else",
+			"q",
+			"qunit",
+			"quint",
+			"module",
+			"commo",
+			"commonjs",
+			"2",
+			"括号",
+			"());\n",
+			"constant",
+			"indent",
+			"trailing",
+			"always",
+			"tailing",
+			"spack-re",
+			"empty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/GitHub/Projects/clientSide/canvasGame/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.20.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/required/promise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/required/proxy.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+								"SL.eslint.Highlights.|08799f9646c4bc5d8446a9e51dd2d84ffbe78e8d9dbb4904464f1d445ef584f6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 144.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 268.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Program Files (x86)\\GitHub\\Projects\\nodeJSServer\\gstes\\nodejs\\gstes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"cryptoUser"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

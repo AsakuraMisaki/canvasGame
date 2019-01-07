@@ -1,5 +1,5 @@
-var proxyAvailable = /(Android|iPhone|Phone|iPad)/gi;
-var matchPhone = ()=>{
+let proxyAvailable = /(Android|iPhone|Phone|iPad)/gi;
+let matchPhone = ()=>{
 	if(navigator.userAgent.match(proxyAvailable)){
 		return true;
 	}
